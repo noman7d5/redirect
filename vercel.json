@@ -1,6 +1,6 @@
 {
   "redirects": [
-    { "source": "/qr", "destination": "https://www.nomanmobile.com/", "permanent": false },
+    { "source": "/qr", "destination": "https://mohd-usman.vercel.app/", "permanent": false },
     { "source": "/youtube", "destination": "https://www.youtube.com/@Mohdnoman.5", "permanent": false },
     { "source": "/instagram", "destination": "https://www.instagram.com/mohdnoman.5", "permanent": false },
     { "source": "/address", "destination": "https://maps.app.goo.gl/7cpKYa4pZhBVZ44x7", "permanent": false },
